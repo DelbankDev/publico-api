@@ -2,7 +2,7 @@
     "name": "criacao-conta-pf-whitelabel",
     "version": "1.0.0",
     "description": "",
-    "main": "send-phone-code.js",
+    "main": "send-email-code.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
